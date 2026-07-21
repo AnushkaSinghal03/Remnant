@@ -1,0 +1,1663 @@
+{
+  "books": [
+    {
+      "id": "SS001",
+      "title": "The Happy Prince and Other Tales",
+      "author": "Oscar Wilde",
+      "authorDeathYear": "1900",
+      "yearPublished": "1888",
+      "category": "Short Stories",
+      "otherCategories": [
+        "Children's Literature"
+      ],
+      "language": "English",
+      "cover": "./assets/covers/SS001.jpg",
+      "epub": "./assets/epub/pg902-images-3.epub",
+      "externalUrl": null,
+      "description": "",
+      "gutenbergId": "902"
+    },
+    {
+      "id": "SS002",
+      "title": "The Jungle Book",
+      "author": "Rudyard Kipling",
+      "authorDeathYear": "1936",
+      "yearPublished": "1894",
+      "category": "Short Stories",
+      "otherCategories": [
+        "Children's Literature",
+        "Adventure & Travel"
+      ],
+      "language": "English",
+      "cover": "./assets/covers/SS002.jpg",
+      "epub": "./assets/epub/pg236-images-3.epub",
+      "externalUrl": null,
+      "description": "",
+      "gutenbergId": "236"
+    },
+    {
+      "id": "SS003",
+      "title": "The Innocence of Father Brown",
+      "author": "G. K. Chesterton",
+      "authorDeathYear": "1936",
+      "yearPublished": "1911",
+      "category": "Short Stories",
+      "otherCategories": [
+        "Mystery & Crime"
+      ],
+      "language": "English",
+      "cover": "./assets/covers/SS003.jpg",
+      "epub": "./assets/epub/pg204-images-3.epub",
+      "externalUrl": null,
+      "description": "",
+      "gutenbergId": "204"
+    },
+    {
+      "id": "SS004",
+      "title": "Dubliners",
+      "author": "James Joyce",
+      "authorDeathYear": "1941",
+      "yearPublished": "1914",
+      "category": "Short Stories",
+      "otherCategories": [
+        "Classics"
+      ],
+      "language": "English",
+      "cover": "./assets/covers/SS004.jpg",
+      "epub": "./assets/epub/pg2814-images-3.epub",
+      "externalUrl": null,
+      "description": "",
+      "gutenbergId": "2814"
+    },
+    {
+      "id": "SS005",
+      "title": "The Mysterious Stranger",
+      "author": "Mark Twain",
+      "authorDeathYear": "1910",
+      "yearPublished": "1916",
+      "category": "Short Stories",
+      "otherCategories": [
+        "Fantasy",
+        "Philosophy"
+      ],
+      "language": "English",
+      "cover": "./assets/covers/SS005.jpg",
+      "epub": "./assets/epub/pg3186-images-3.epub",
+      "externalUrl": null,
+      "description": "",
+      "gutenbergId": "3186"
+    },
+    {
+      "id": "SS006",
+      "title": "The Trimmed Lamp and Other Stories",
+      "author": "O. Henry",
+      "authorDeathYear": "1910",
+      "yearPublished": "1907",
+      "category": "Short Stories",
+      "otherCategories": [],
+      "language": "English",
+      "cover": "./assets/covers/SS006.jpg",
+      "epub": "./assets/epub/pg3707-images-3.epub",
+      "externalUrl": null,
+      "description": "",
+      "gutenbergId": "3707"
+    },
+    {
+      "id": "SS007",
+      "title": "The Four Million",
+      "author": "O. Henry",
+      "authorDeathYear": "1910",
+      "yearPublished": "1906",
+      "category": "Short Stories",
+      "otherCategories": [],
+      "language": "English",
+      "cover": "./assets/covers/SS007.jpg",
+      "epub": "./assets/epub/pg2776-images-3.epub",
+      "externalUrl": null,
+      "description": "",
+      "gutenbergId": "2776"
+    },
+    {
+      "id": "SS008",
+      "title": "The King in Yellow",
+      "author": "Robert W. Chambers",
+      "authorDeathYear": "1933",
+      "yearPublished": "1895",
+      "category": "Short Stories",
+      "otherCategories": [
+        "Horror & Gothic",
+        "Fantasy"
+      ],
+      "language": "English",
+      "cover": "./assets/covers/SS008.jpg",
+      "epub": "./assets/epub/pg8492-images-3.epub",
+      "externalUrl": null,
+      "description": "",
+      "gutenbergId": "8492"
+    },
+    {
+      "id": "ROM001",
+      "title": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "authorDeathYear": "1817",
+      "yearPublished": "1813",
+      "category": "Romance",
+      "otherCategories": [
+        "Classics"
+      ],
+      "language": "English",
+      "cover": "./assets/covers/ROM001.jpg",
+      "epub": "./assets/epub/pg1342-images-3.epub",
+      "externalUrl": null,
+      "description": "",
+      "gutenbergId": "1342"
+    },
+    {
+      "id": "ROM002",
+      "title": "Sense and Sensibility",
+      "author": "Jane Austen",
+      "authorDeathYear": "1817",
+      "yearPublished": "1811",
+      "category": "Romance",
+      "otherCategories": [
+        "Classics"
+      ],
+      "language": "English",
+      "cover": "./assets/covers/ROM002.jpg",
+      "epub": "./assets/epub/pg21839-images-3.epub",
+      "externalUrl": null,
+      "description": "",
+      "gutenbergId": "21839"
+    },
+    {
+      "id": "ROM003",
+      "title": "Emma",
+      "author": "Jane Austen",
+      "authorDeathYear": "1817",
+      "yearPublished": "1815",
+      "category": "Romance",
+      "otherCategories": [
+        "Classics"
+      ],
+      "language": "English",
+      "cover": "./assets/covers/ROM003.jpg",
+      "epub": "./assets/epub/pg158-images-3.epub",
+      "externalUrl": null,
+      "description": "",
+      "gutenbergId": "158"
+    },
+    {
+      "id": "ROM004",
+      "title": "Persuasion",
+      "author": "Jane Austen",
+      "authorDeathYear": "1817",
+      "yearPublished": "1817",
+      "category": "Romance",
+      "otherCategories": [
+        "Classics"
+      ],
+      "language": "English",
+      "cover": "./assets/covers/ROM004.jpg",
+      "epub": "./assets/epub/pg105-images-3.epub",
+      "externalUrl": null,
+      "description": "",
+      "gutenbergId": "105"
+    },
+    {
+      "id": "ROM005",
+      "title": "Jane Eyre",
+      "author": "Charlotte Brontë",
+      "authorDeathYear": "1855",
+      "yearPublished": "1847",
+      "category": "Romance",
+      "otherCategories": [
+        "Classics",
+        "Horror & Gothic"
+      ],
+      "language": "English",
+      "cover": "./assets/covers/ROM005.jpg",
+      "epub": "./assets/epub/pg1260-images-3.epub",
+      "externalUrl": null,
+      "description": "",
+      "gutenbergId": "1260"
+    },
+    {
+      "id": "ROM006",
+      "title": "North and South",
+      "author": "Elizabeth Gaskell",
+      "authorDeathYear": "1865",
+      "yearPublished": "1854",
+      "category": "Romance",
+      "otherCategories": [
+        "Classics"
+      ],
+      "language": "English",
+      "cover": "./assets/covers/ROM006.jpg",
+      "epub": "./assets/epub/pg4276-images-3.epub",
+      "externalUrl": null,
+      "description": "",
+      "gutenbergId": "4276"
+    },
+    {
+      "id": "ROM007",
+      "title": "Far from the Madding Crowd",
+      "author": "Thomas Hardy",
+      "authorDeathYear": "1928",
+      "yearPublished": "1874",
+      "category": "Romance",
+      "otherCategories": [
+        "Classics"
+      ],
+      "language": "English",
+      "cover": "./assets/covers/ROM007.jpg",
+      "epub": "./assets/epub/pg107-images-3.epub",
+      "externalUrl": null,
+      "description": "",
+      "gutenbergId": "107"
+    },
+    {
+      "id": "ROM008",
+      "title": "Wuthering Heights",
+      "author": "Emily Bronte",
+      "authorDeathYear": "1848",
+      "yearPublished": "1847",
+      "category": "Romance",
+      "otherCategories": [
+        "Horror & Gothic"
+      ],
+      "language": "English",
+      "cover": "./assets/covers/ROM008.jpg",
+      "epub": "./assets/epub/pg768-images-3.epub",
+      "externalUrl": null,
+      "description": "",
+      "gutenbergId": "768"
+    },
+    {
+      "id": "POE001",
+      "title": "Leaves of Grass",
+      "author": "Walt Whitman",
+      "authorDeathYear": "1892",
+      "yearPublished": "1855",
+      "category": "Poetry",
+      "otherCategories": [
+        "Classics"
+      ],
+      "language": "English",
+      "cover": "./assets/covers/POE001.jpg",
+      "epub": "./assets/epub/pg1322-images-3.epub",
+      "externalUrl": null,
+      "description": "",
+      "gutenbergId": "1322"
+    },
+    {
+      "id": "POE002",
+      "title": "Songs of Innocence and of Experience",
+      "author": "William Blake",
+      "authorDeathYear": "1827",
+      "yearPublished": "1794",
+      "category": "Poetry",
+      "otherCategories": [
+        "Classics",
+        "Philosophy"
+      ],
+      "language": "English",
+      "cover": "./assets/covers/POE002.jpg",
+      "epub": "./assets/epub/pg1934-images-3.epub",
+      "externalUrl": null,
+      "description": "",
+      "gutenbergId": "1934"
+    },
+    {
+      "id": "POE003",
+      "title": "The Prophet",
+      "author": "Kahlil Gibran",
+      "authorDeathYear": "1931",
+      "yearPublished": "1923",
+      "category": "Poetry",
+      "otherCategories": [
+        "Philosophy"
+      ],
+      "language": "English",
+      "cover": "./assets/covers/POE003.jpg",
+      "epub": "./assets/epub/pg58585-images-3.epub",
+      "externalUrl": null,
+      "description": "",
+      "gutenbergId": "58585"
+    },
+    {
+      "id": "POE004",
+      "title": "The Gardener",
+      "author": "Rabindranath Tagore",
+      "authorDeathYear": "1941",
+      "yearPublished": "1913",
+      "category": "Poetry",
+      "otherCategories": [
+        "Classics",
+        "Romance"
+      ],
+      "language": "English",
+      "cover": "./assets/covers/POE004.jpg",
+      "epub": "./assets/epub/pg6686-images-3.epub",
+      "externalUrl": null,
+      "description": "",
+      "gutenbergId": "6686"
+    },
+    {
+      "id": "POE005",
+      "title": "Gitanjali",
+      "author": "Rabindranath Tagore",
+      "authorDeathYear": "1941",
+      "yearPublished": "1910",
+      "category": "Poetry",
+      "otherCategories": [
+        "Classics",
+        "Philosophy"
+      ],
+      "language": "English",
+      "cover": "./assets/covers/POE005.jpg",
+      "epub": "./assets/epub/pg7164-images-3.epub",
+      "externalUrl": null,
+      "description": "",
+      "gutenbergId": "7164"
+    },
+    {
+      "id": "POE006",
+      "title": "Poems",
+      "author": "Christina Rossetti",
+      "authorDeathYear": "1894",
+      "yearPublished": "1893",
+      "category": "Poetry",
+      "otherCategories": [],
+      "language": "English",
+      "cover": "./assets/covers/POE006.jpg",
+      "epub": "./assets/epub/pg19188-images-3.epub",
+      "externalUrl": null,
+      "description": "",
+      "gutenbergId": "19188"
+    },
+    {
+      "id": "POE007",
+      "title": "Goblin Market and Other Poems",
+      "author": "Christina Rossetti",
+      "authorDeathYear": "1894",
+      "yearPublished": "1862",
+      "category": "Poetry",
+      "otherCategories": [
+        "Classics",
+        "Fantasy"
+      ],
+      "language": "English",
+      "cover": "./assets/covers/POE007.jpg",
+      "epub": "./assets/epub/pg16950-images-3.epub",
+      "externalUrl": null,
+      "description": "",
+      "gutenbergId": "16950"
+    },
+    {
+      "id": "POE008",
+      "title": "Collected Poems (early editions)",
+      "author": "W. B. Yeats",
+      "authorDeathYear": "1939",
+      "yearPublished": "1895",
+      "category": "Poetry",
+      "otherCategories": [],
+      "language": "English",
+      "cover": "./assets/covers/POE008.jpg",
+      "epub": "./assets/epub/pg49608-images-3.epub",
+      "externalUrl": null,
+      "description": "",
+      "gutenbergId": "49608"
+    },
+    {
+      "id": "PHI001",
+      "title": "Meditations",
+      "author": "Marcus Aurelius",
+      "authorDeathYear": "180 CE",
+      "yearPublished": "180",
+      "category": "Philosophy",
+      "otherCategories": [
+        "Classics"
+      ],
+      "language": "English",
+      "cover": "./assets/covers/PHI001.jpg",
+      "epub": "./assets/epub/pg55317-images-3.epub",
+      "externalUrl": null,
+      "description": "",
+      "gutenbergId": "55317"
+    },
+    {
+      "id": "PHI002",
+      "title": "The Republic",
+      "author": "Plato",
+      "authorDeathYear": "348/347 BCE",
+      "yearPublished": "-375",
+      "category": "Philosophy",
+      "otherCategories": [
+        "Classics"
+      ],
+      "language": "English",
+      "cover": "./assets/covers/PHI002.jpg",
+      "epub": "./assets/epub/pg55201-images-3.epub",
+      "externalUrl": null,
+      "description": "",
+      "gutenbergId": "55201"
+    },
+    {
+      "id": "PHI003",
+      "title": "Apology",
+      "author": "Plato",
+      "authorDeathYear": "348/347 BCE",
+      "yearPublished": "-399",
+      "category": "Philosophy",
+      "otherCategories": [
+        "Classics"
+      ],
+      "language": "English",
+      "cover": "./assets/covers/PHI003.jpg",
+      "epub": "./assets/epub/pg1656-images-3.epub",
+      "externalUrl": null,
+      "description": "",
+      "gutenbergId": "1656"
+    },
+    {
+      "id": "PHI004",
+      "title": "Six Metaphysical Meditations",
+      "author": "Rene Descartes",
+      "authorDeathYear": "1650",
+      "yearPublished": "1641",
+      "category": "Philosophy",
+      "otherCategories": [],
+      "language": "English",
+      "cover": "./assets/covers/PHI004.jpg",
+      "epub": "./assets/epub/pg70091-images-3.epub",
+      "externalUrl": null,
+      "description": "",
+      "gutenbergId": "70091"
+    },
+    {
+      "id": "PHI005",
+      "title": "The Art of War",
+      "author": "Sun Tzu",
+      "authorDeathYear": "c. 496 BCE",
+      "yearPublished": "-500",
+      "category": "Philosophy",
+      "otherCategories": [
+        "Classics"
+      ],
+      "language": "English",
+      "cover": "./assets/covers/PHI005.jpg",
+      "epub": "./assets/epub/pg132-images-3.epub",
+      "externalUrl": null,
+      "description": "",
+      "gutenbergId": "132"
+    },
+    {
+      "id": "PHI006",
+      "title": "Leviathan",
+      "author": "Thomas Hobbes",
+      "authorDeathYear": "1679",
+      "yearPublished": "1651",
+      "category": "Philosophy",
+      "otherCategories": [],
+      "language": "English",
+      "cover": "./assets/covers/PHI006.jpg",
+      "epub": "./assets/epub/pg3207-images-3.epub",
+      "externalUrl": null,
+      "description": "",
+      "gutenbergId": "3207"
+    },
+    {
+      "id": "PHI007",
+      "title": "Beyond Good and Evil",
+      "author": "Friedrich Nietzsche",
+      "authorDeathYear": "1900",
+      "yearPublished": "1886",
+      "category": "Philosophy",
+      "otherCategories": [
+        "Classics"
+      ],
+      "language": "English",
+      "cover": "./assets/covers/PHI007.jpg",
+      "epub": "./assets/epub/pg4363-images-3.epub",
+      "externalUrl": null,
+      "description": "",
+      "gutenbergId": "4363"
+    },
+    {
+      "id": "PHI008",
+      "title": "Thus Spoke Zarathustra",
+      "author": "Friedrich Nietzsche",
+      "authorDeathYear": "1900",
+      "yearPublished": "1883",
+      "category": "Philosophy",
+      "otherCategories": [
+        "Classics"
+      ],
+      "language": "English",
+      "cover": "./assets/covers/PHI008.jpg",
+      "epub": "./assets/epub/pg1998-images-3.epub",
+      "externalUrl": null,
+      "description": "",
+      "gutenbergId": "1998"
+    },
+    {
+      "id": "MYTH001",
+      "title": "Ramayana",
+      "author": "Valmiki",
+      "authorDeathYear": "Ancient / traditional",
+      "yearPublished": "-500",
+      "category": "Mythology & Folklore",
+      "otherCategories": [
+        "Poetry",
+        "Adventure & Travel"
+      ],
+      "language": "English",
+      "cover": "./assets/covers/MYTH001.jpg",
+      "epub": "./assets/epub/pg24869-images-3.epub",
+      "externalUrl": null,
+      "description": "",
+      "gutenbergId": "24869"
+    },
+    {
+      "id": "MYTH002",
+      "title": "Mahabharata",
+      "author": "Vyasa",
+      "authorDeathYear": "Ancient / traditional",
+      "yearPublished": "-400",
+      "category": "Mythology & Folklore",
+      "otherCategories": [
+        "Poetry",
+        "Philosophy"
+      ],
+      "language": "English",
+      "cover": "./assets/covers/MYTH002.jpg",
+      "epub": null,
+      "externalUrl": "https://www.sacred-texts.com/hin/maha/",
+      "description": "",
+      "gutenbergId": null
+    },
+    {
+      "id": "MYTH003",
+      "title": "Bhagavad Gita",
+      "author": "Vyasa",
+      "authorDeathYear": "Ancient / traditional",
+      "yearPublished": "-200",
+      "category": "Mythology & Folklore",
+      "otherCategories": [
+        "Poetry",
+        "Philosophy"
+      ],
+      "language": "English",
+      "cover": "./assets/covers/MYTH003.jpg",
+      "epub": "./assets/epub/pg2388-images-3.epub",
+      "externalUrl": null,
+      "description": "",
+      "gutenbergId": "2388"
+    },
+    {
+      "id": "MYTH004",
+      "title": "Bulfinch's Mythology",
+      "author": "Thomas Bulfinch",
+      "authorDeathYear": "1867",
+      "yearPublished": "1855",
+      "category": "Mythology & Folklore",
+      "otherCategories": [
+        "Classics"
+      ],
+      "language": "English",
+      "cover": "./assets/covers/MYTH004.jpg",
+      "epub": "./assets/epub/pg4928-images-3.epub",
+      "externalUrl": null,
+      "description": "",
+      "gutenbergId": "4928"
+    },
+    {
+      "id": "MYTH005",
+      "title": "The Prose Edda",
+      "author": "A. G. Brodeur",
+      "authorDeathYear": "1920",
+      "yearPublished": "1220",
+      "category": "Mythology & Folklore",
+      "otherCategories": [
+        "Classics"
+      ],
+      "language": "English",
+      "cover": "./assets/covers/MYTH005.jpg",
+      "epub": "./assets/epub/pg18947-images-3.epub",
+      "externalUrl": null,
+      "description": "",
+      "gutenbergId": "18947"
+    },
+    {
+      "id": "MYTH006",
+      "title": "Myths and Legends of Japan",
+      "author": "F. Hadland Davis",
+      "authorDeathYear": "1928",
+      "yearPublished": "1912",
+      "category": "Mythology & Folklore",
+      "otherCategories": [
+        "Fantasy",
+        "Children's Literature"
+      ],
+      "language": "English",
+      "cover": "./assets/covers/MYTH006.jpg",
+      "epub": "./assets/epub/pg45723-images-3.epub",
+      "externalUrl": null,
+      "description": "",
+      "gutenbergId": "45723"
+    },
+    {
+      "id": "MYTH007",
+      "title": "King James Version of Bible",
+      "author": "King James",
+      "authorDeathYear": "1625",
+      "yearPublished": "1611",
+      "category": "Mythology & Folklore",
+      "otherCategories": [
+        "Philosophy",
+        "Poetry"
+      ],
+      "language": "English",
+      "cover": "./assets/covers/MYTH007.jpg",
+      "epub": "./assets/epub/pg10-images-3.epub",
+      "externalUrl": null,
+      "description": "",
+      "gutenbergId": "10"
+    },
+    {
+      "id": "MYTH008",
+      "title": "Paradise Lost",
+      "author": "John Milton",
+      "authorDeathYear": "1674",
+      "yearPublished": "1667",
+      "category": "Mythology & Folklore",
+      "otherCategories": [
+        "Classics",
+        "Poetry"
+      ],
+      "language": "English",
+      "cover": "./assets/covers/MYTH008.jpg",
+      "epub": "./assets/epub/pg20-images-3.epub",
+      "externalUrl": null,
+      "description": "",
+      "gutenbergId": "20"
+    },
+    {
+      "id": "MYS001",
+      "title": "The Adventures of Sherlock Holmes",
+      "author": "Arthur Conan Doyle",
+      "authorDeathYear": "1930",
+      "yearPublished": "1892",
+      "category": "Mystery & Crime",
+      "otherCategories": [
+        "Classics",
+        "Short Stories"
+      ],
+      "language": "English",
+      "cover": "./assets/covers/MYS001.jpg",
+      "epub": "./assets/epub/pg1661-images-3.epub",
+      "externalUrl": null,
+      "description": "",
+      "gutenbergId": "1661"
+    },
+    {
+      "id": "MYS002",
+      "title": "The Woman in White",
+      "author": "Wilkie Collins",
+      "authorDeathYear": "1889",
+      "yearPublished": "1860",
+      "category": "Mystery & Crime",
+      "otherCategories": [
+        "Classics",
+        "Horror & Gothic"
+      ],
+      "language": "English",
+      "cover": "./assets/covers/MYS002.jpg",
+      "epub": "./assets/epub/pg583-images-3.epub",
+      "externalUrl": null,
+      "description": "",
+      "gutenbergId": "583"
+    },
+    {
+      "id": "MYS003",
+      "title": "The Hound of the Baskervilles",
+      "author": "Arthur Conan Doyle",
+      "authorDeathYear": "1930",
+      "yearPublished": "1902",
+      "category": "Mystery & Crime",
+      "otherCategories": [
+        "Classics",
+        "Horror & Gothic"
+      ],
+      "language": "English",
+      "cover": "./assets/covers/MYS003.jpg",
+      "epub": "./assets/epub/pg2852-images-3.epub",
+      "externalUrl": null,
+      "description": "",
+      "gutenbergId": "2852"
+    },
+    {
+      "id": "MYS004",
+      "title": "The Leavenworth Case",
+      "author": "Anna Katherine Green",
+      "authorDeathYear": "1935",
+      "yearPublished": "1911",
+      "category": "Mystery & Crime",
+      "otherCategories": [],
+      "language": "English",
+      "cover": "./assets/covers/MYS004.jpg",
+      "epub": "./assets/epub/pg4047-images-3.epub",
+      "externalUrl": null,
+      "description": "",
+      "gutenbergId": "4047"
+    },
+    {
+      "id": "MYS005",
+      "title": "The Circular Staircase",
+      "author": "Mary Roberts Rinehart",
+      "authorDeathYear": "1958",
+      "yearPublished": "1908",
+      "category": "Mystery & Crime",
+      "otherCategories": [],
+      "language": "English",
+      "cover": "./assets/covers/MYS005.jpg",
+      "epub": "./assets/epub/pg434-images-3.epub",
+      "externalUrl": null,
+      "description": "",
+      "gutenbergId": "434"
+    },
+    {
+      "id": "MYS006",
+      "title": "The Moonstone",
+      "author": "Wilkie Collins",
+      "authorDeathYear": "1889",
+      "yearPublished": "1868",
+      "category": "Mystery & Crime",
+      "otherCategories": [
+        "Classics"
+      ],
+      "language": "English",
+      "cover": "./assets/covers/MYS006.jpg",
+      "epub": "./assets/epub/pg155-images-3.epub",
+      "externalUrl": null,
+      "description": "",
+      "gutenbergId": "155"
+    },
+    {
+      "id": "MYS007",
+      "title": "The Mystery of Edwin Drood",
+      "author": "Charles Dickens",
+      "authorDeathYear": "1870",
+      "yearPublished": "1870",
+      "category": "Mystery & Crime",
+      "otherCategories": [
+        "Classics"
+      ],
+      "language": "English",
+      "cover": "./assets/covers/MYS007.jpg",
+      "epub": "./assets/epub/pg564-images-3.epub",
+      "externalUrl": null,
+      "description": "",
+      "gutenbergId": "564"
+    },
+    {
+      "id": "MYS008",
+      "title": "The Mystery of a Hansom Cab",
+      "author": "Fergus Hume",
+      "authorDeathYear": "1932",
+      "yearPublished": "1886",
+      "category": "Mystery & Crime",
+      "otherCategories": [],
+      "language": "English",
+      "cover": "./assets/covers/MYS008.jpg",
+      "epub": "./assets/epub/pg4223-images-3.epub",
+      "externalUrl": null,
+      "description": "",
+      "gutenbergId": "4223"
+    },
+    {
+      "id": "HOR001",
+      "title": "Dracula",
+      "author": "Bram Stoker",
+      "authorDeathYear": "1912",
+      "yearPublished": "1897",
+      "category": "Horror & Gothic",
+      "otherCategories": [
+        "Classics",
+        "Fantasy"
+      ],
+      "language": "English",
+      "cover": "./assets/covers/HOR001.jpg",
+      "epub": "./assets/epub/pg345-images-3.epub",
+      "externalUrl": null,
+      "description": "",
+      "gutenbergId": "345"
+    },
+    {
+      "id": "HOR002",
+      "title": "Frankenstein",
+      "author": "Mary Shelley",
+      "authorDeathYear": "1851",
+      "yearPublished": "1818",
+      "category": "Horror & Gothic",
+      "otherCategories": [
+        "Classics",
+        "Fantasy"
+      ],
+      "language": "English",
+      "cover": "./assets/covers/HOR002.jpg",
+      "epub": "./assets/epub/pg84-images-3.epub",
+      "externalUrl": null,
+      "description": "",
+      "gutenbergId": "84"
+    },
+    {
+      "id": "HOR003",
+      "title": "Dr. Jekyll and Mr. Hyde",
+      "author": "R. L. Stevenson",
+      "authorDeathYear": "1894",
+      "yearPublished": "1886",
+      "category": "Horror & Gothic",
+      "otherCategories": [
+        "Classics",
+        "Mystery & Crime"
+      ],
+      "language": "English",
+      "cover": "./assets/covers/HOR003.jpg",
+      "epub": "./assets/epub/pg43-images-3.epub",
+      "externalUrl": null,
+      "description": "",
+      "gutenbergId": "43"
+    },
+    {
+      "id": "HOR004",
+      "title": "The Picture of Dorian Gray",
+      "author": "Oscar Wilde",
+      "authorDeathYear": "1900",
+      "yearPublished": "1890",
+      "category": "Horror & Gothic",
+      "otherCategories": [
+        "Classics",
+        "Philosophy"
+      ],
+      "language": "English",
+      "cover": "./assets/covers/HOR004.jpg",
+      "epub": "./assets/epub/pg174-images-3.epub",
+      "externalUrl": null,
+      "description": "",
+      "gutenbergId": "174"
+    },
+    {
+      "id": "HOR005",
+      "title": "The Turn of the Screw",
+      "author": "Henry James",
+      "authorDeathYear": "1916",
+      "yearPublished": "1898",
+      "category": "Horror & Gothic",
+      "otherCategories": [
+        "Classics",
+        "Mystery & Crime"
+      ],
+      "language": "English",
+      "cover": "./assets/covers/HOR005.jpg",
+      "epub": "./assets/epub/pg209-images-3.epub",
+      "externalUrl": null,
+      "description": "",
+      "gutenbergId": "209"
+    },
+    {
+      "id": "HOR006",
+      "title": "Carmilla",
+      "author": "Sheridan Le Fanu",
+      "authorDeathYear": "1873",
+      "yearPublished": "1872",
+      "category": "Horror & Gothic",
+      "otherCategories": [
+        "Classics",
+        "Fantasy"
+      ],
+      "language": "English",
+      "cover": "./assets/covers/HOR006.jpg",
+      "epub": "./assets/epub/pg10007-images-3.epub",
+      "externalUrl": null,
+      "description": "",
+      "gutenbergId": "10007"
+    },
+    {
+      "id": "HOR007",
+      "title": "The Castle of Otranto",
+      "author": "Horace Walpole",
+      "authorDeathYear": "1797",
+      "yearPublished": "1764",
+      "category": "Horror & Gothic",
+      "otherCategories": [
+        "Classics",
+        "Fantasy"
+      ],
+      "language": "English",
+      "cover": "./assets/covers/HOR007.jpg",
+      "epub": "./assets/epub/pg696-images-3.epub",
+      "externalUrl": null,
+      "description": "",
+      "gutenbergId": "696"
+    },
+    {
+      "id": "HOR008",
+      "title": "Ghost Stories of an Antiquary",
+      "author": "M. R. James",
+      "authorDeathYear": "1936",
+      "yearPublished": "1904",
+      "category": "Horror & Gothic",
+      "otherCategories": [
+        "Classics",
+        "Short Stories"
+      ],
+      "language": "English",
+      "cover": "./assets/covers/HOR008.jpg",
+      "epub": "./assets/epub/pg8486-images-3.epub",
+      "externalUrl": null,
+      "description": "",
+      "gutenbergId": "8486"
+    },
+    {
+      "id": "FAN001",
+      "title": "The Wood Beyond the World",
+      "author": "William Morris",
+      "authorDeathYear": "1896",
+      "yearPublished": "1894",
+      "category": "Fantasy",
+      "otherCategories": [
+        "Classics",
+        "Adventure & Travel"
+      ],
+      "language": "English",
+      "cover": "./assets/covers/FAN001.jpg",
+      "epub": "./assets/epub/pg3055-images-3.epub",
+      "externalUrl": null,
+      "description": "",
+      "gutenbergId": "3055"
+    },
+    {
+      "id": "FAN002",
+      "title": "The Well at the World's End",
+      "author": "William Morris",
+      "authorDeathYear": "1896",
+      "yearPublished": "1896",
+      "category": "Fantasy",
+      "otherCategories": [
+        "Classics",
+        "Adventure & Travel"
+      ],
+      "language": "English",
+      "cover": "./assets/covers/FAN002.jpg",
+      "epub": "./assets/epub/pg169-images-3.epub",
+      "externalUrl": null,
+      "description": "",
+      "gutenbergId": "169"
+    },
+    {
+      "id": "FAN003",
+      "title": "The House of the Wolfings",
+      "author": "William Morris",
+      "authorDeathYear": "1896",
+      "yearPublished": "1889",
+      "category": "Fantasy",
+      "otherCategories": [
+        "Classics",
+        "Mythology & Folklore"
+      ],
+      "language": "English",
+      "cover": "./assets/covers/FAN003.jpg",
+      "epub": "./assets/epub/pg2885-images-3.epub",
+      "externalUrl": null,
+      "description": "",
+      "gutenbergId": "2885"
+    },
+    {
+      "id": "FAN004",
+      "title": "The Roots of the Mountains",
+      "author": "William Morris",
+      "authorDeathYear": "1896",
+      "yearPublished": "1889",
+      "category": "Fantasy",
+      "otherCategories": [
+        "Classics",
+        "Adventure & Travel"
+      ],
+      "language": "English",
+      "cover": "./assets/covers/FAN004.jpg",
+      "epub": "./assets/epub/pg6050-images-3.epub",
+      "externalUrl": null,
+      "description": "",
+      "gutenbergId": "6050"
+    },
+    {
+      "id": "FAN005",
+      "title": "Lilith",
+      "author": "George MacDonald",
+      "authorDeathYear": "1905",
+      "yearPublished": "1895",
+      "category": "Fantasy",
+      "otherCategories": [
+        "Classics",
+        "Horror & Gothic"
+      ],
+      "language": "English",
+      "cover": "./assets/covers/FAN005.jpg",
+      "epub": "./assets/epub/pg1640-images-3.epub",
+      "externalUrl": null,
+      "description": "",
+      "gutenbergId": "1640"
+    },
+    {
+      "id": "FAN006",
+      "title": "The Worm Ouroboros",
+      "author": "E. R. Eddison",
+      "authorDeathYear": "1945",
+      "yearPublished": "1922",
+      "category": "Fantasy",
+      "otherCategories": [
+        "Classics",
+        "Adventure & Travel"
+      ],
+      "language": "English",
+      "cover": "./assets/covers/FAN006.jpg",
+      "epub": "./assets/epub/pg67090.epub",
+      "externalUrl": null,
+      "description": "",
+      "gutenbergId": "67090"
+    },
+    {
+      "id": "FAN007",
+      "title": "A Voyage to Arcturus",
+      "author": "David Lindsay",
+      "authorDeathYear": "1945",
+      "yearPublished": "1920",
+      "category": "Fantasy",
+      "otherCategories": [
+        "Philosophy",
+        "Adventure & Travel"
+      ],
+      "language": "English",
+      "cover": "./assets/covers/FAN007.jpg",
+      "epub": "./assets/epub/pg1329-images-3.epub",
+      "externalUrl": null,
+      "description": "",
+      "gutenbergId": "1329"
+    },
+    {
+      "id": "FAN008",
+      "title": "The Night Land",
+      "author": "William Hope Hodgson",
+      "authorDeathYear": "1918",
+      "yearPublished": "1912",
+      "category": "Fantasy",
+      "otherCategories": [
+        "Horror & Gothic",
+        "Adventure & Travel"
+      ],
+      "language": "English",
+      "cover": "./assets/covers/FAN008.jpg",
+      "epub": "./assets/epub/pg10662-images-3.epub",
+      "externalUrl": null,
+      "description": "",
+      "gutenbergId": "10662"
+    },
+    {
+      "id": "DRA001",
+      "title": "Hamlet",
+      "author": "William Shakespeare",
+      "authorDeathYear": "1616",
+      "yearPublished": "1603",
+      "category": "Drama & Plays",
+      "otherCategories": [
+        "Classics"
+      ],
+      "language": "English",
+      "cover": "./assets/covers/DRA001.jpg",
+      "epub": "./assets/epub/pg27761-images-3.epub",
+      "externalUrl": null,
+      "description": "",
+      "gutenbergId": "27761"
+    },
+    {
+      "id": "DRA002",
+      "title": "Macbeth",
+      "author": "William Shakespeare",
+      "authorDeathYear": "1616",
+      "yearPublished": "1623",
+      "category": "Drama & Plays",
+      "otherCategories": [
+        "Classics",
+        "Horror & Gothic"
+      ],
+      "language": "English",
+      "cover": "./assets/covers/DRA002.jpg",
+      "epub": "./assets/epub/pg1533-images-3.epub",
+      "externalUrl": null,
+      "description": "",
+      "gutenbergId": "1533"
+    },
+    {
+      "id": "DRA003",
+      "title": "A Midsummer Night's Dream",
+      "author": "William Shakespeare",
+      "authorDeathYear": "1616",
+      "yearPublished": "1600",
+      "category": "Drama & Plays",
+      "otherCategories": [
+        "Classics",
+        "Fantasy"
+      ],
+      "language": "English",
+      "cover": "./assets/covers/DRA003.jpg",
+      "epub": "./assets/epub/pg1514-images-3.epub",
+      "externalUrl": null,
+      "description": "",
+      "gutenbergId": "1514"
+    },
+    {
+      "id": "DRA004",
+      "title": "The Importance of Being Earnest",
+      "author": "Oscar Wilde",
+      "authorDeathYear": "1900",
+      "yearPublished": "1895",
+      "category": "Drama & Plays",
+      "otherCategories": [
+        "Classics",
+        "Romance"
+      ],
+      "language": "English",
+      "cover": "./assets/covers/DRA004.jpg",
+      "epub": "./assets/epub/pg844-images-3.epub",
+      "externalUrl": null,
+      "description": "",
+      "gutenbergId": "844"
+    },
+    {
+      "id": "DRA005",
+      "title": "Pygmalion",
+      "author": "George Bernard Shaw",
+      "authorDeathYear": "1950",
+      "yearPublished": "1913",
+      "category": "Drama & Plays",
+      "otherCategories": [
+        "Classics",
+        "Romance"
+      ],
+      "language": "English",
+      "cover": "./assets/covers/DRA005.jpg",
+      "epub": "./assets/epub/pg3825-images-3.epub",
+      "externalUrl": null,
+      "description": "",
+      "gutenbergId": "3825"
+    },
+    {
+      "id": "DRA006",
+      "title": "Saint Joan",
+      "author": "George Bernard Shaw",
+      "authorDeathYear": "1950",
+      "yearPublished": "1923",
+      "category": "Drama & Plays",
+      "otherCategories": [
+        "Classics"
+      ],
+      "language": "English",
+      "cover": "./assets/covers/DRA006.jpg",
+      "epub": "./assets/epub/pg76323-images-3.epub",
+      "externalUrl": null,
+      "description": "",
+      "gutenbergId": "76323"
+    },
+    {
+      "id": "DRA007",
+      "title": "Doctor Faustus",
+      "author": "Christopher Marlowe",
+      "authorDeathYear": "1593",
+      "yearPublished": "1592",
+      "category": "Drama & Plays",
+      "otherCategories": [
+        "Classics",
+        "Horror & Gothic"
+      ],
+      "language": "English",
+      "cover": "./assets/covers/DRA007.jpg",
+      "epub": "./assets/epub/pg779-images-3.epub",
+      "externalUrl": null,
+      "description": "",
+      "gutenbergId": "779"
+    },
+    {
+      "id": "DRA008",
+      "title": "The Rivals: A Comedy",
+      "author": "Richard Brinsley Sheridan",
+      "authorDeathYear": "1816",
+      "yearPublished": "1775",
+      "category": "Drama & Plays",
+      "otherCategories": [
+        "Romance"
+      ],
+      "language": "English",
+      "cover": "./assets/covers/DRA008.jpg",
+      "epub": "./assets/epub/pg24761-images-3.epub",
+      "externalUrl": null,
+      "description": "",
+      "gutenbergId": "24761"
+    },
+    {
+      "id": "CHI001",
+      "title": "The Wonderful Wizard of Oz",
+      "author": "L. Frank Baum",
+      "authorDeathYear": "1919",
+      "yearPublished": "1900",
+      "category": "Children's Literature",
+      "otherCategories": [
+        "Fantasy",
+        "Adventure & Travel"
+      ],
+      "language": "English",
+      "cover": "./assets/covers/CHI001.jpg",
+      "epub": "./assets/epub/pg55-images-3.epub",
+      "externalUrl": null,
+      "description": "",
+      "gutenbergId": "55"
+    },
+    {
+      "id": "CHI002",
+      "title": "Alice's Adventures in Wonderland",
+      "author": "Lewis Carroll",
+      "authorDeathYear": "1898",
+      "yearPublished": "1865",
+      "category": "Children's Literature",
+      "otherCategories": [
+        "Fantasy",
+        "Classics"
+      ],
+      "language": "English",
+      "cover": "./assets/covers/CHI002.jpg",
+      "epub": "./assets/epub/pg11-images-3.epub",
+      "externalUrl": null,
+      "description": "",
+      "gutenbergId": "11"
+    },
+    {
+      "id": "CHI003",
+      "title": "The Princess & The Goblin",
+      "author": "George MacDonald",
+      "authorDeathYear": "1905",
+      "yearPublished": "1872",
+      "category": "Children's Literature",
+      "otherCategories": [
+        "Fantasy",
+        "Classics"
+      ],
+      "language": "English",
+      "cover": "./assets/covers/CHI003.jpg",
+      "epub": "./assets/epub/pg708-images-3.epub",
+      "externalUrl": null,
+      "description": "",
+      "gutenbergId": "708"
+    },
+    {
+      "id": "CHI004",
+      "title": "The Heroes or Greek Fairy Tales for My Children",
+      "author": "Charles Kingsley",
+      "authorDeathYear": "1875",
+      "yearPublished": "1856",
+      "category": "Children's Literature",
+      "otherCategories": [
+        "Mythology & Folklore",
+        "Classics"
+      ],
+      "language": "English",
+      "cover": "./assets/covers/CHI004.jpg",
+      "epub": "./assets/epub/pg677-images-3.epub",
+      "externalUrl": null,
+      "description": "",
+      "gutenbergId": "677"
+    },
+    {
+      "id": "CHI005",
+      "title": "Celtic Fairy Tales",
+      "author": "Joseph Jacobs",
+      "authorDeathYear": "1916",
+      "yearPublished": "1892",
+      "category": "Children's Literature",
+      "otherCategories": [
+        "Short Stories",
+        "Mythology & Folklore"
+      ],
+      "language": "English",
+      "cover": "./assets/covers/CHI005.jpg",
+      "epub": "./assets/epub/pg35862-images-3.epub",
+      "externalUrl": null,
+      "description": "",
+      "gutenbergId": "35862"
+    },
+    {
+      "id": "CHI006",
+      "title": "English Fairy Tales",
+      "author": "Joseph Jacobs",
+      "authorDeathYear": "1916",
+      "yearPublished": "1890",
+      "category": "Children's Literature",
+      "otherCategories": [
+        "Short Stories",
+        "Mythology & Folklore"
+      ],
+      "language": "English",
+      "cover": "./assets/covers/CHI006.jpg",
+      "epub": "./assets/epub/pg7439-images-3.epub",
+      "externalUrl": null,
+      "description": "",
+      "gutenbergId": "7439"
+    },
+    {
+      "id": "CHI007",
+      "title": "Grimm's Fairy Tales",
+      "author": "Jacob & Wilhelm Grimm",
+      "authorDeathYear": "1863, 1859",
+      "yearPublished": "1812",
+      "category": "Children's Literature",
+      "otherCategories": [
+        "Short Stories",
+        "Mythology & Folklore"
+      ],
+      "language": "English",
+      "cover": "./assets/covers/CHI007.jpg",
+      "epub": "./assets/epub/pg2591-images-3.epub",
+      "externalUrl": null,
+      "description": "",
+      "gutenbergId": "2591"
+    },
+    {
+      "id": "CHI008",
+      "title": "The Arabian Nights",
+      "author": "Various",
+      "authorDeathYear": "Various / multiple authors",
+      "yearPublished": "1706",
+      "category": "Children's Literature",
+      "otherCategories": [
+        "Short Stories",
+        "Mythology & Folklore"
+      ],
+      "language": "English",
+      "cover": "./assets/covers/CHI008.jpg",
+      "epub": "./assets/epub/pg20916-images-3.epub",
+      "externalUrl": null,
+      "description": "",
+      "gutenbergId": "20916"
+    },
+    {
+      "id": "ADV001",
+      "title": "Treasure Island",
+      "author": "R. L. Stevenson",
+      "authorDeathYear": "1894",
+      "yearPublished": "1883",
+      "category": "Adventure & Travel",
+      "otherCategories": [
+        "Classics",
+        "Children's Literature"
+      ],
+      "language": "English",
+      "cover": "./assets/covers/ADV001.jpg",
+      "epub": "./assets/epub/pg120-images-3.epub",
+      "externalUrl": null,
+      "description": "",
+      "gutenbergId": "120"
+    },
+    {
+      "id": "ADV002",
+      "title": "King Solomon's Mines",
+      "author": "H. Rider Haggard",
+      "authorDeathYear": "1925",
+      "yearPublished": "1885",
+      "category": "Adventure & Travel",
+      "otherCategories": [
+        "Classics",
+        "Fantasy"
+      ],
+      "language": "English",
+      "cover": "./assets/covers/ADV002.jpg",
+      "epub": "./assets/epub/pg2166-images-3.epub",
+      "externalUrl": null,
+      "description": "",
+      "gutenbergId": "2166"
+    },
+    {
+      "id": "ADV003",
+      "title": "Twenty Thousand Leagues Under the Seas",
+      "author": "Jules Verne",
+      "authorDeathYear": "1905",
+      "yearPublished": "1870",
+      "category": "Adventure & Travel",
+      "otherCategories": [
+        "Classics",
+        "Fantasy"
+      ],
+      "language": "English",
+      "cover": "./assets/covers/ADV003.jpg",
+      "epub": "./assets/epub/pg164-images-3.epub",
+      "externalUrl": null,
+      "description": "",
+      "gutenbergId": "164"
+    },
+    {
+      "id": "ADV004",
+      "title": "Around the World in Eighty Days",
+      "author": "Jules Verne",
+      "authorDeathYear": "1905",
+      "yearPublished": "1873",
+      "category": "Adventure & Travel",
+      "otherCategories": [
+        "Classics"
+      ],
+      "language": "English",
+      "cover": "./assets/covers/ADV004.jpg",
+      "epub": "./assets/epub/pg103-images-3.epub",
+      "externalUrl": null,
+      "description": "",
+      "gutenbergId": "103"
+    },
+    {
+      "id": "ADV005",
+      "title": "Journey to the Centre of the Earth",
+      "author": "Jules Verne",
+      "authorDeathYear": "1905",
+      "yearPublished": "1864",
+      "category": "Adventure & Travel",
+      "otherCategories": [
+        "Classics",
+        "Fantasy"
+      ],
+      "language": "English",
+      "cover": "./assets/covers/ADV005.jpg",
+      "epub": "./assets/epub/pg18857-images-3.epub",
+      "externalUrl": null,
+      "description": "",
+      "gutenbergId": "18857"
+    },
+    {
+      "id": "ADV006",
+      "title": "The Call of the Wild",
+      "author": "Jack London",
+      "authorDeathYear": "1916",
+      "yearPublished": "1903",
+      "category": "Adventure & Travel",
+      "otherCategories": [
+        "Classics",
+        "Children's Literature"
+      ],
+      "language": "English",
+      "cover": "./assets/covers/ADV006.jpg",
+      "epub": "./assets/epub/pg215-images-3.epub",
+      "externalUrl": null,
+      "description": "",
+      "gutenbergId": "215"
+    },
+    {
+      "id": "ADV007",
+      "title": "The Sea-Wolf",
+      "author": "Jack London",
+      "authorDeathYear": "1916",
+      "yearPublished": "1904",
+      "category": "Adventure & Travel",
+      "otherCategories": [],
+      "language": "English",
+      "cover": "./assets/covers/ADV007.jpg",
+      "epub": "./assets/epub/pg1074-images-3.epub",
+      "externalUrl": null,
+      "description": "",
+      "gutenbergId": "1074"
+    },
+    {
+      "id": "ADV008",
+      "title": "Travels with a Donkey in the Cévennes",
+      "author": "R. L. Stevenson",
+      "authorDeathYear": "1894",
+      "yearPublished": "1879",
+      "category": "Adventure & Travel",
+      "otherCategories": [],
+      "language": "English",
+      "cover": "./assets/covers/ADV008.jpg",
+      "epub": "./assets/epub/pg535-images-3.epub",
+      "externalUrl": null,
+      "description": "",
+      "gutenbergId": "535"
+    },
+    {
+      "id": "CLA001",
+      "title": "Great Expectations",
+      "author": "Charles Dickens",
+      "authorDeathYear": "1870",
+      "yearPublished": "1861",
+      "category": "Classics",
+      "otherCategories": [
+        "Romance"
+      ],
+      "language": "English",
+      "cover": "./assets/covers/CLA001.jpg",
+      "epub": "./assets/epub/pg1400-images-3.epub",
+      "externalUrl": null,
+      "description": "",
+      "gutenbergId": "1400"
+    },
+    {
+      "id": "CLA002",
+      "title": "The Count of Monte Cristo",
+      "author": "Alexandre Dumas",
+      "authorDeathYear": "1870",
+      "yearPublished": "1844",
+      "category": "Classics",
+      "otherCategories": [
+        "Adventure & Travel"
+      ],
+      "language": "English",
+      "cover": "./assets/covers/CLA002.jpg",
+      "epub": "./assets/epub/pg1184-images-3.epub",
+      "externalUrl": null,
+      "description": "",
+      "gutenbergId": "1184"
+    },
+    {
+      "id": "CLA003",
+      "title": "Les Misérables",
+      "author": "Victor Hugo",
+      "authorDeathYear": "1885",
+      "yearPublished": "1862",
+      "category": "Classics",
+      "otherCategories": [
+        "Drama & Plays"
+      ],
+      "language": "English",
+      "cover": "./assets/covers/CLA003.jpg",
+      "epub": "./assets/epub/pg135-images-3.epub",
+      "externalUrl": null,
+      "description": "",
+      "gutenbergId": "135"
+    },
+    {
+      "id": "CLA004",
+      "title": "The Scarlet Letter",
+      "author": "Nathaniel Hawthorne",
+      "authorDeathYear": "1864",
+      "yearPublished": "1850",
+      "category": "Classics",
+      "otherCategories": [
+        "Romance"
+      ],
+      "language": "English",
+      "cover": "./assets/covers/CLA004.jpg",
+      "epub": "./assets/epub/pg25344-images-3.epub",
+      "externalUrl": null,
+      "description": "",
+      "gutenbergId": "25344"
+    },
+    {
+      "id": "CLA005",
+      "title": "Middlemarch",
+      "author": "George Eliot",
+      "authorDeathYear": "1880",
+      "yearPublished": "1871",
+      "category": "Classics",
+      "otherCategories": [
+        "Romance"
+      ],
+      "language": "English",
+      "cover": "./assets/covers/CLA005.jpg",
+      "epub": "./assets/epub/pg145-images-3.epub",
+      "externalUrl": null,
+      "description": "",
+      "gutenbergId": "145"
+    },
+    {
+      "id": "CLA006",
+      "title": "Vanity Fair",
+      "author": "W. M. Thackeray",
+      "authorDeathYear": "1863",
+      "yearPublished": "1848",
+      "category": "Classics",
+      "otherCategories": [
+        "Romance"
+      ],
+      "language": "English",
+      "cover": "./assets/covers/CLA006.jpg",
+      "epub": "./assets/epub/pg599-images-3.epub",
+      "externalUrl": null,
+      "description": "",
+      "gutenbergId": "599"
+    },
+    {
+      "id": "CLA007",
+      "title": "The Mayor of Casterbridge",
+      "author": "Thomas Hardy",
+      "authorDeathYear": "1928",
+      "yearPublished": "1886",
+      "category": "Classics",
+      "otherCategories": [],
+      "language": "English",
+      "cover": "./assets/covers/CLA007.jpg",
+      "epub": "./assets/epub/pg143-images-3.epub",
+      "externalUrl": null,
+      "description": "",
+      "gutenbergId": "143"
+    },
+    {
+      "id": "CLA008",
+      "title": "The Age of Innocence",
+      "author": "Edith Wharton",
+      "authorDeathYear": "1937",
+      "yearPublished": "1920",
+      "category": "Classics",
+      "otherCategories": [
+        "Romance"
+      ],
+      "language": "English",
+      "cover": "./assets/covers/CLA008.jpg",
+      "epub": "./assets/epub/pg541-images-3.epub",
+      "externalUrl": null,
+      "description": "",
+      "gutenbergId": "541"
+    }
+  ]
+}
