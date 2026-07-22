@@ -77,6 +77,13 @@ nav {
     margin-right: 15px;
 }
 
+#theme-toggle {
+    cursor: pointer;
+    font-size: 24px;
+    border: none;
+    background-color: transparent;
+}
+
 .nav-save {
     font-size: 24px;
 }
@@ -114,7 +121,7 @@ nav {
 
 .hero p {
     color: var(--text-secondary);
-    font-size: 16px;
+    font-size: 20px;
     line-height: 1.7;
     margin-bottom: 16px;
     text-align: justify;
@@ -131,7 +138,7 @@ nav {
 
 .notices p {
     color: var(--text-secondary);
-    font-size: 14px;
+    font-size: 18px;
     line-height: 1.7;
     margin-bottom: 10px;
     text-align: justify;
@@ -155,7 +162,7 @@ nav {
 
 .donations p {
     color: var(--text-secondary);
-    font-size: 16px;
+    font-size: 20px;
     line-height: 1.7;
     margin-bottom: 20px;
     text-align: justify;
@@ -185,7 +192,7 @@ nav {
 
 .request p {
     color: var(--text-secondary);
-    font-size: 16px;
+    font-size: 20px;
     line-height: 1.7;
     margin-bottom: 20px;
 }
@@ -203,6 +210,68 @@ nav {
 }
 
 #request-book:hover {
+    background: var(--accent);
+    color: var(--bg-body);
+}
+
+.book-page {
+    display: flex;
+    gap: 15px;
+    max-width: 960px;
+    margin: auto;
+    padding: 10px 20px;
+    align-items: flex-start;
+}
+
+#book-cover {
+    max-width: 220px;
+    border-radius: 12px;
+}
+
+.book-info {
+    flex: 1;
+}
+
+#book-title {
+    font-size: 50px;
+    color: var(--text-primary);
+}
+
+#book-author {
+    font-size: 30px;
+    color: var(--text-secondary);
+}
+
+#read-now {
+    display: inline-block;
+    padding: 12px 32px;
+    background: var(--accent);
+    color: var(--bg-body);
+    text-decoration: none;
+    border-radius: 6px;
+    font-weight: 600;
+    transition: opacity 0.2s ease;
+    margin-top: 10px;
+}
+
+#read-now:hover {
+    opacity: 0.8;
+}
+
+#download-book {
+    display: inline-block;
+    padding: 12px 32px;
+    background: transparent;
+    color: var(--accent);
+    text-decoration: none;
+    border: 2px solid var(--accent);
+    border-radius: 6px;
+    font-weight: 600;
+    transition: background 0.2s ease, color 0.2s ease;
+    margin-top: 10px;
+}
+
+#download-book:hover {
     background: var(--accent);
     color: var(--bg-body);
 }
